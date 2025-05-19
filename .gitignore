@@ -1,0 +1,18 @@
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore temporary and log files
+*.log
+*.tmp
+*.bak
